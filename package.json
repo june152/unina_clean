@@ -4,6 +4,7 @@
   "description": "Unina Clean",
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "git": "^0.1.5"
   },
   "devDependencies": {},
@@ -22,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/june152/unina_clean/issues"
   },
-  "homepage": "https://github.com/june152/unina_clean#readme"
+  "homepage": "https://june152.github.io/unina_clean"
 }
