@@ -1,0 +1,26 @@
+{
+  "name": "unina_clean",
+  "version": "1.0.0",
+  "description": "Unina Clean",
+  "main": "index.js",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Unina"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june152/unina_clean.git"
+  },
+  "keywords": [
+    "uninaclean"
+  ],
+  "author": "hjp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/june152/unina_clean/issues"
+  },
+  "homepage": "https://github.com/june152/unina_clean#readme"
+}
